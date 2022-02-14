@@ -3,7 +3,12 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/4c3c9ae0ac0fe748e66aae276f827784_lec20.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec20.pdf
+type: OCWFile
 uid: 4c3c9ae0-ac0f-e748-e66a-ae276f827784
 ---
