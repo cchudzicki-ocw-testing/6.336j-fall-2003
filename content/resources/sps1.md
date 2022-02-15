@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: sps1.pdf
-type: OCWFile
 uid: 71076787-a369-e361-01de-682512a13561
 ---

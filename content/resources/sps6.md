@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: sps6.pdf
-type: OCWFile
 uid: 9b41e28c-074f-02d5-31e6-7f4ce083d5c1
 ---
