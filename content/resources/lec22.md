@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec22.pdf
 uid: cc491c04-b4ec-8be9-36ab-d351127b2d64
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

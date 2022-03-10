@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec26a.pdf
 uid: 87f54d15-7668-a4ad-c337-077e7edc18a3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

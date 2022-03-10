@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: sps1.pdf
 uid: 71076787-a369-e361-01de-682512a13561
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

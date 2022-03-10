@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: sps2.pdf
 uid: 9fa323c6-887a-a825-ae7f-374ecd8ab5a0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

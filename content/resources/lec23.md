@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec23.pdf
 uid: 85ba70bc-a7df-01f7-53e0-ece92b46011d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

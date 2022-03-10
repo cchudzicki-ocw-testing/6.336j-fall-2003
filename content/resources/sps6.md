@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: sps6.pdf
 uid: 9b41e28c-074f-02d5-31e6-7f4ce083d5c1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

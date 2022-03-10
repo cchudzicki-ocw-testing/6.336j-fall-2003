@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: sps5.pdf
 uid: 2ddf731b-62c4-e138-99ce-4a531305eef5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
